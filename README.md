@@ -1,6 +1,6 @@
 # Travel Website for Erica
 
-Travel website for Erica, a travel blogger and social media influencer. Built for BTEC Unit 7.
+Travel website for Erica, a travel blogger and social media influencer. 
 
 ## Pages
 
